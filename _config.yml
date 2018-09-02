@@ -1,2 +1,3 @@
 name: Prarthana Bhattarai, Introduction
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
