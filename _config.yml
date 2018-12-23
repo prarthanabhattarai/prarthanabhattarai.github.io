@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Prarthana Bhattarai
-  avatar: leonids-logo.png
+  avatar: #image file
   job: "Data Engineer"
   bio: "Welcome to my personal website."
   email:
