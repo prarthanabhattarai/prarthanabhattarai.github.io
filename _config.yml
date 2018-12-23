@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
+title: Prarthana Bhattarai
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: Welcome to my website
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Prarthana Bhattarai
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Data Engineer"
+  bio: "Welcome to my personal website."
   email:
   disqus-shortname:
   twitter: #username
