@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Prarthana Bhattarai
-  avatar: #image file
+  avatar: # Image file name
   job: "Data Engineer"
   bio: "Welcome to my personal website."
   email:
