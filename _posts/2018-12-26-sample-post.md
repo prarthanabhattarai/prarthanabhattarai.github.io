@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sample Post
-excerpt: "Hello World"
 date: 2018-12-20 15:07:19
 categories: [hello world]
 comments: true
