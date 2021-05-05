@@ -14,7 +14,7 @@ keywords: ["blog", "jekyll"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -35,8 +35,8 @@ kramdown:
 owner:
   name: Prarthana Bhattarai
   avatar: pic.jpg # Image file name
-  job: "Data Engineer"
-  bio: "Welcome to my personal website."
+  job: "ML Engineer"
+  bio: "Site for my ramblings on various stuff."
   email:
   disqus-shortname:
   twitter: #username
