@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: John Schrute
+title: Prarthana Bhattarai
 email: john.schrute@loremipsum.com
 description: "My website description"
-url: 'https://mukulkhanna.github.io/leonids-v2' # change this as per your website
+url: 'https://prarthanabhattarai.github.io/' # change this as per your website
 keywords: [""]
 
 #
@@ -18,7 +18,7 @@ keywords: [""]
 # host: 0.0.0.0
 # port: 4000
 
-timezone:          Asia/Kolkata
+timezone:          America/New_York
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -45,10 +45,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: John Schrute
+  name: Prarthana Bhattarai
   avatar: profile_picture.jpeg
-  job: "Employee of the year 2019"
-  bio: "Assistant Regional Manager, Dunder Mifflin"
+  job: "Software Engineer focusing on Machine Learning"
+  bio: "A curious wanderer."
   github: username
   email: johnschrute@gmail.com
   disqus-shortname: #username
