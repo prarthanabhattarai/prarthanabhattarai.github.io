@@ -48,7 +48,7 @@ owner:
   name: Prarthana Bhattarai
   avatar: profile_picture.jpeg
   job: "Software Engineer focusing on Machine Learning"
-  bio: "A curious wanderer."
+  bio: #"A curious wanderer."
   github: username
   email: johnschrute@gmail.com
   disqus-shortname: #username
